@@ -1,7 +1,7 @@
 {
   "name": "fabric8-npm-pipeline-test-prj",
   "description": "A test project to try out UpdateBot for realz.",
-  "version": "1.2.5",
+  "version": "1.2.7",
   "dependencies": {
     "fabric8-planner": "0.36.0",
     "fabric8-npm-pipeline-test-prj": "0.0.3",
